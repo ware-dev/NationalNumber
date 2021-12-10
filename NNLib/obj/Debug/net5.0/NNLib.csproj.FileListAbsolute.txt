@@ -1,0 +1,12 @@
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\bin\Debug\net5.0\NNLib.deps.json
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\bin\Debug\net5.0\NNLib.dll
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\bin\Debug\net5.0\ref\NNLib.dll
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\bin\Debug\net5.0\NNLib.pdb
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\obj\Debug\net5.0\NNLib.csproj.AssemblyReference.cache
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\obj\Debug\net5.0\NNLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\obj\Debug\net5.0\NNLib.AssemblyInfoInputs.cache
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\obj\Debug\net5.0\NNLib.AssemblyInfo.cs
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\obj\Debug\net5.0\NNLib.csproj.CoreCompileInputs.cache
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\obj\Debug\net5.0\NNLib.dll
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\obj\Debug\net5.0\ref\NNLib.dll
+C:\Users\remi-\OneDrive\Bureau\csharp-tf\csharp-tf\NationalNumber\NNLib\obj\Debug\net5.0\NNLib.pdb

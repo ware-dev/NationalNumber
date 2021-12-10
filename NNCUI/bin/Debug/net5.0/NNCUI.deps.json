@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NNCUI/1.0.0": {
+        "dependencies": {
+          "NNLib": "1.0.0"
+        },
+        "runtime": {
+          "NNCUI.dll": {}
+        }
+      },
+      "NNLib/1.0.0": {
+        "runtime": {
+          "NNLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NNCUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NNLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

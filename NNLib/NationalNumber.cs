@@ -76,7 +76,7 @@ namespace NNLib
         /// <summary>
         /// Method that check if the length of the number entered is equals to the right length
         /// </summary>
-        /// <param name="number">the length of the national number<param>
+        /// <param name="length">the length of the national number<param>
         /// <return>a bool that represent the validity of the length of the national number</return>
         private static bool IsLengthValid(int length)
         {
@@ -86,7 +86,7 @@ namespace NNLib
         /// <summary>
         /// Method that check if the birthdate of the number is valid according to our calendar
         /// </summary>
-        /// <param name="number">the date (first 6 digits of the number)<param>
+        /// <param name="date">the date (first 6 digits of the number)<param>
         /// <return>a bool that represent the validity of the date</return>
         private static bool IsBirthDateValid(string date)
         {
